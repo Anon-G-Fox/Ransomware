@@ -20,3 +20,5 @@ No independent decryption—prevents unauthorized monetization.
 🚫Not for Profit : Wealth means nothing when lives are at stake
 
 Decryption keys held exclusively by us - Contact for verified cases only!
+
+<img src="https://i.imgur.com/aZISTBE.jpg" width="300" alt="Cyber Resistance">
